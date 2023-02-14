@@ -1,0 +1,13 @@
+.main{
+    width: 80%;
+    margin: auto;
+}
+.home{
+    margin: 10px 10px;
+}
+
+.HomeTop{
+    margin: 10px 0px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

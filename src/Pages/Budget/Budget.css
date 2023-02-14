@@ -1,0 +1,36 @@
+.budget{
+    width: 80%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: skyblue;
+    border-radius: 10px;
+    padding: 0px 20px;
+    font-size: 20px;
+}
+.budgetInput{
+    width: 50%;
+    height: 30px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.btn-budget{
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+.blue{
+    background-color: rgb(28, 181, 242);
+}
+
+.green{
+    background-color: rgb(19, 193, 51);
+
+}
